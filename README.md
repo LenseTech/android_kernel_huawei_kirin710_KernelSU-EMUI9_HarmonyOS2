@@ -10,9 +10,7 @@
 - HUAWEI Nova 3i(INE-AL00) based on HarmonyOS 2.0. Feel free to test for your device. (Also works theoretically on Huawei nova 5i based on HarmonyOS 2.0).
 
 ## File description
-- There are two types of kernel image:
-PM：Permissive
-Non-PM：Enforcing
+- There are two types of kernel image: PM：Permissive; Non-PM：Enforcing.
 - Non-PM image also work on EMUI9.1.0.241.
 
 ## Usage
