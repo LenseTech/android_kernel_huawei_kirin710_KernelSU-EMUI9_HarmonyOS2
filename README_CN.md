@@ -1,5 +1,7 @@
 # 适用于华为Nova 3i EMIU9.1/鸿蒙2.0底包的KernelSU v0.9.2。
 
+[English](README.md) | **简体中文**
+
 ## 功能
 - 为华为Nova 3i提供KernelSU Root。
 - 可安装模块。
