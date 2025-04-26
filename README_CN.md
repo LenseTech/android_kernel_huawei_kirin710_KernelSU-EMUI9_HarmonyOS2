@@ -25,7 +25,7 @@ PM：宽容模式
 - 在HarmonyOS 2.0刷入PM内核后，SELinux状态仍为强制执行。
 
 ## 下载
-- 请转到[发行版]([https://gitee.com/lensetech/android_kernel_huawei_kirin710_-kernel-su-harmony-os2_emui9/releases/tag/v20250422](https://github.com/LenseTech/android_kernel_huawei_kirin710_KernelSU-EMUI9_HarmonyOS2/releases/tag/v20250422))下载。
+- 请转到[发行版](https://github.com/LenseTech/android_kernel_huawei_kirin710_KernelSU-EMUI9_HarmonyOS2/releases/tag/v20250422)下载。
 
 ## 鸣谢
 - [KernelSU](https://github.com/tiann/KernelSU/)：提供Root方案。
