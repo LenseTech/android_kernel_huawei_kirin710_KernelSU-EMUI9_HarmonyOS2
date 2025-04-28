@@ -31,7 +31,7 @@ PM：宽容模式
 
 ## 下载
 - 内核提供KernelSU v0.9.2和v0.9.4版本，请自行测试稳定性，目前没有发现两个版本之间明显的功能差异，两个版本均不兼容以上提到的模块。
-- 请转到[发行版](https://gitee.com/lensetech/android_kernel_huawei_kirin710_-kernel-su-harmony-os2_emui9/releases/tag/v20250422)下载。
+- 请转到[发行版](https://github.com/LenseTech/android_kernel_huawei_kirin710_KernelSU-EMUI9_HarmonyOS2/releases/tag/v20250428)下载。
 
 ## 鸣谢
 - [KernelSU](https://github.com/tiann/KernelSU/)：提供Root方案。
