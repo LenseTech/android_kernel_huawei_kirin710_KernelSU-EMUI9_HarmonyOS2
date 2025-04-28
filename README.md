@@ -28,7 +28,7 @@ Non-PM：Enforcing
 ## Known Issues
 - SELinux will remain Enforcing after flash PM kernel on HarmonyOS 2.0 and EMUI9.
 - Some modules are incompatible, which may cause the third-party application to fail to start normally or your phone stuck in "The phone is starting...". Try remove the module that cause exception in TWRP or remove in KernelSU's Safe Mode. Modules are located in `/data/adb/modules`
-- Known incompatible module(s): [Zygisk-assistant v2.1.4](https://github.com/snake-4/Zygisk-Assistant/releases/tag/v2.1.4).
+- Known incompatible module(s): [Zygisk-assistant v2.1.4](https://github.com/snake-4/Zygisk-Assistant/releases/tag/v2.1.4), [Uperf-Game-Turbo.1.42](https://github.com/yinwanxi/Uperf-Game-Turbo/releases/tag/Uperf-Game-Turbo.1.42).
 
 ## Downloads
 - The kernel provides the KernelSU v0.9.2 and v0.9.4 versions. Please test the stability by yourself. At present, no obvious functional differences are found between the two versions. Both versions are incompatible with the modules mentioned above.
