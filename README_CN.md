@@ -27,7 +27,7 @@ PM：宽容模式
 
 ## 已知问题
 - 由于KernelSU的ksud.c文件无法对低于安卓10的系统正确处理init以及应用KernelSU修改的SELinux规则，在EMUI9和HarmonyOS 2.0刷入PM内核后，SELinux状态仍为强制执行。
-- 部分模块不兼容，可能导致应用无法正常启动或手机卡在“手机正在启动......”，可以通过使用TWRP进入 `/data/adb/modules` 删除对应模块或使用KernelSU的 [安全模式](https://kernelsu.org/zh_CN/guide/rescue-from-bootloop.html) 进入系统后删除对应模块。已知不兼容的模块：[Zygisk-assistant v2.1.4](https://github.com/snake-4/Zygisk-Assistant/releases/tag/v2.1.4)。
+- 部分模块不兼容，可能导致应用无法正常启动或手机卡在“手机正在启动......”，可以通过使用TWRP进入 `/data/adb/modules` 删除对应模块或使用KernelSU的 [安全模式](https://kernelsu.org/zh_CN/guide/rescue-from-bootloop.html) 进入系统后删除对应模块。已知不兼容的模块：[Zygisk-assistant v2.1.4](https://github.com/snake-4/Zygisk-Assistant/releases/tag/v2.1.4)、[Uperf-Game-Turbo.1.42](https://github.com/yinwanxi/Uperf-Game-Turbo/releases/tag/Uperf-Game-Turbo.1.42)。
 
 ## 下载
 - 内核提供KernelSU v0.9.2和v0.9.4版本，请自行测试稳定性，目前没有发现两个版本之间明显的功能差异，两个版本均不兼容以上提到的模块。
