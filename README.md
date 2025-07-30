@@ -2,6 +2,8 @@
 
 **English** | [简体中文](README_CN.md)
 
+## This project is no longer under maintenance. If you are looking for a root solution, you can try [this](https://github.com/LenseTech/android_kernel_huawei_kirin710_SukiSU-Ultra-EMUI9_HarmonyOS2)
+
 ## Features
 - Provide KernelSU Root.
 - Module installation support.
