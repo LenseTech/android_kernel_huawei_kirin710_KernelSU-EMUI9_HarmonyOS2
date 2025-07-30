@@ -2,6 +2,8 @@
 
 [English](README.md) | **简体中文**
 
+## 本项目已停止维护。如果你正在寻找Root方案，你可以尝试[这个](https://github.com/LenseTech/android_kernel_huawei_kirin710_SukiSU-Ultra-EMUI9_HarmonyOS2)。
+
 ## 功能
 - 为华为Nova 3i提供KernelSU Root。
 - 可安装模块。
